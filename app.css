@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+
+.skill{
+    margin: auto;
+    width: 60%;
+    border: 5px;
+    padding: 10px;
+}
